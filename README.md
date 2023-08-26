@@ -1,41 +1,23 @@
 ### Hi there, I'm Camilla 👋
 
-<div align="center">
-  <a href="https://github.com/silvacf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvacf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvacf&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<br>
+![stats](https://github-readme-stats.vercel.app/api?username=silvacf&show_icons=true&theme=dark&include_all_commits=true&count_private=true") \
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silvacf&layout=compact&langs_count=7&theme=dark)
+
   
-### Languages and Tools:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  
-</div>
- <br>
-<hr>
-  
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camillalferreiradasilva/)
+### Languages and Tools 🔨
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss)
+![NextJS](https://img.shields.io/badge/NextJS-000?style=for-the-badge&logo=next.js)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker) 
+
+### How to reach me 📫
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camillalferreiradasilva/)
   
 
 
-<!--
-**silvacf/silvacf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
